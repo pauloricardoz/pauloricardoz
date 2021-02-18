@@ -5,7 +5,7 @@ I'm Paulo, a Control and Automation Engineer and a Master in Computer Science.
 I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I'm sharping some hard and soft skills. 
 
 **Information:** 
-
+<img align="right" src="https://github.com/pauloricardoz/pauloricardoz/blob/master/night-coding.gif">
 - :house: I'm currently living in Itajubá- MG - Brazil;
 - :bulb: A big believer that technology can change the world, a line of code at the time. Through a extension in our browsers, an app in our cellphone or in a machine in a hospital. **_Code_ is everyhere**.;
 - :books: I appreciate teaching and learning almost everything, and I'm always looking for something new to dive in.;
