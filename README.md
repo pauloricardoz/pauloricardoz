@@ -7,7 +7,7 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 **Information:** 
 
 - :house: I'm currently living in Itajubá- MG - Brazil;
-- :ideas: A big believer that technology can change the world, a line of code at the time. Through a extension in our browsers, an app in our cellphone or in a machine in a hospital. **_Code_ is everyhere**.;
+- :bulb: A big believer that technology can change the world, a line of code at the time. Through a extension in our browsers, an app in our cellphone or in a machine in a hospital. **_Code_ is everyhere**.;
 - :books: I appreciate teaching and learning almost everything, and I'm always looking for something new to dive in.;
 
 **Main Technologies:**
