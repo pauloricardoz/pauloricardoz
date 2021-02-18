@@ -18,8 +18,8 @@ I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.c
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Jest](https://img.shields.io/badge/-Jest-%23F7DF1C?style=flat-square&logo=jest&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-%231572B6?style=flat-square&logo=nodejs)
-![Mongodb](https://img.shields.io/badge/-Mongodb-%231572B6?style=flat-square&logo=mongodb)
 ![Mysql](https://img.shields.io/badge/-Mysql-%231572B6?style=flat-square&logo=mysql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize)
 <!--
