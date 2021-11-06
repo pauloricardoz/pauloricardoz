@@ -2,7 +2,7 @@
 
 I'm Paulo, a Control and Automation Engineer and a Master in Computer Science.
 
-I am currently a Full Stack Development Student at [Trybe](https://www.betrybe.com/), where I'm sharping some hard and soft skills. 
+I am a Full Stack Development at [Trybe](https://www.betrybe.com/), and currently I'm working as an Instructor also at [Trybe](https://www.betrybe.com/), helping others to build and improve some hard and soft skills. 
 
 **Information:** 
 <img width="50%" align="right" src="https://github.com/pauloricardoz/pauloricardoz/blob/master/night-coding.gif">
