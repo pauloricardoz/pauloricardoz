@@ -48,7 +48,7 @@ Sou Mestre em Ciência da Computação e Desenvolvimento Full Stack, e atualment
 
 :pray: Sintam-se libres para me enviar sugestões e contribuições para me GitHub Page :octocat:
 
-You can reach me on:
+You can reach me on/ Você pode me contactar em:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-ricardo-zambelli-taveira/"><img src="https://github.com/pauloricardoz/pauloricardoz/blob/master/linkedin.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
