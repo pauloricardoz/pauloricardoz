@@ -22,7 +22,7 @@ Sou Mestre em Ciência da Computação e Desenvolvimento Full Stack, e atualment
 - :bulb: Um grande crente que a tecnologia pode mudar o mundo, uma linha de código na época. Através de uma extensão em nossos navegadores, um aplicativo em nosso celular ou em uma máquina em um hospital. **_Code_ está em toda parte**.;
 - :books: Gosto de ensinar e aprender quase tudo, e estou sempre procurando algo novo para mergulhar.;
 
-#### Coding with:
+#### Coding with/ Codando com:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -45,6 +45,8 @@ Sou Mestre em Ciência da Computação e Desenvolvimento Full Stack, e atualment
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 :pray: Please, feel free to send me feedbacks and contributing to my GitHub Page :octocat:
+
+:pray: Sintam-se libres para me enviar sugestões e contribuições para me GitHub Page :octocat:
 
 You can reach me on:
 
