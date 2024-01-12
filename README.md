@@ -1,16 +1,16 @@
-# Hello, welcome to my GitHub
+# Hello, welcome to my GitHub <img width="50%" align="right" src="https://github.com/pauloricardoz/pauloricardoz/blob/master/night-coding.gif">
 
 I'm Paulo, a Control and Automation Engineer and a Master in Computer Science.
 
 I am a Full Stack Development at [Trybe](https://www.betrybe.com/), and currently I'm working as an Instructor also at [Trybe](https://www.betrybe.com/), helping others to build and improve some hard and soft skills. 
 
 **Information:** 
-<img width="50%" align="right" src="https://github.com/pauloricardoz/pauloricardoz/blob/master/night-coding.gif">
+
 - :house: I'm currently living in Belo Horizonte- MG - Brazil;
 - :bulb: A big believer that technology can change the world, a line of code at the time. Through a extension in our browsers, an app in our cellphone or in a machine in a hospital. **_Code_ is everyhere**.;
 - :books: I appreciate teaching and learning almost everything, and I'm always looking for something new to dive in.;
 
-# Olá, bem-vindo ao meu GitHub
+# Olá, bem-vindo ao meu GitHub <img width="50%" align="left" src="https://github.com/pauloricardoz/pauloricardoz/blob/master/night-coding.gif">
 
 Sou o Paulo, Engenheiro de Controlo e Automação e Mestre em Informática.
 
